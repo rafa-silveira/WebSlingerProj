@@ -1,0 +1,19 @@
+
+models.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+webSlingerTitle
+  rotate: false
+  xy: 2, 2
+  size: 648, 192
+  orig: 690, 219
+  offset: 34, 10
+  index: -1
+howToPlay
+  rotate: false
+  xy: 652, 26
+  size: 282, 168
+  orig: 282, 168
+  offset: 0, 0
+  index: -1
